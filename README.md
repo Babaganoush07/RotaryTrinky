@@ -1,0 +1,2 @@
+# RotaryTrinky
+Adafruit Rotary Trinkey
