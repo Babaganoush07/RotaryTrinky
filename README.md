@@ -30,3 +30,5 @@
 - `Adafruit NeoPixel` [(Adafruit NeoPixel)](https://github.com/adafruit/Adafruit_NeoPixel)
 - `Adafruit FreeTouch` [(Adafruit FreeTouch)](https://github.com/adafruit/Adafruit_FreeTouch)
 - `HID-Project` [(HID-Project)](https://github.com/NicoHood/HID)
+
+Got a return error from the samd.cpp file in the HID-Project, found the fix [here](https://github.com/NicoHood/HID/pull/342/commits/ea0c514d9129506700cb6a1df5dbc518f48c5031)
